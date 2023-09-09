@@ -1,6 +1,4 @@
-<div align="center">
-  <img width="150px" src="https://github.com/Pollsp/Pollsp/assets/136817652/9f43dddf-625d-4461-8217-ad16585c0991" />
-</div>
+
 
 <hr>
 
@@ -16,6 +14,10 @@
 
 
 <hr>
+
+  <img align="left" width="150px" src="https://github.com/Pollsp/Pollsp/assets/136817652/9f43dddf-625d-4461-8217-ad16585c0991" />
+
+  <img align="right" width="150px" src="https://github.com/Pollsp/Pollsp/assets/136817652/9f43dddf-625d-4461-8217-ad16585c0991" />
 
 <!---
 Pollsp/Pollsp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
